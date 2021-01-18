@@ -19,6 +19,6 @@ To run the application, just type in the project terminal `yarn start` or` npm s
  <sub> <b> Adryelli Reis </b> </sub> </a> 
 
 
-Made with ❤️ by Adryelli Reis !
+Made with ❤️ by Adryelli Reis !!
 
 
